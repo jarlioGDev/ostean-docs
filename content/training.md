@@ -7,4 +7,5 @@ Functional training general
 - [How to Strengthen Knees - Rehab, Prehab, and Performance](https://youtu.be/ObtqcHxneGs)
 - [The Many Surprising Benefits of Lunges (And Variations)](https://youtu.be/afRE2HD3sGQ)
 
-### 
+### Exercises for specific muscles
+- [Shoulders training no equipment](https://youtu.be/D6L46HTVBiY)
