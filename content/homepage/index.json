@@ -1,0 +1,56 @@
+{
+    "title": "Homepage",
+    "description": "Idk something",
+    "links": [
+        {
+            "name": "Health",
+            "link": "/health",
+            "icon": "healthicons:health-outline"
+        },
+        {
+            "name": "youtube",
+            "link": "https://www.youtube.com/",
+            "icon": "simple-icons:youtube"
+        },
+        {
+            "name": "Odysee",
+            "link": "https://odysee.com/",
+            "icon": "simple-icons:youtubemusic"
+        },
+        {
+            "name": "Bitchute",
+            "link": "https://www.bitchute.com/",
+            "icon": "simple-icons:youtubestudio"
+        },
+        {
+            "name": "Github",
+            "link": "https://github.com/",
+            "icon": "simple-icons:github"
+        },
+        {
+            "name": "Subsplease",
+            "link": "https://subsplease.org/",
+            "icon": "guidance:aquarium"
+        },
+        {
+            "name": "Filelist",
+            "link": "https://filelist.io/",
+            "icon": "ph:download-simple-fill"
+        },
+        {
+            "name": "Nyaa",
+            "link": "https://nyaa.si/",
+            "icon": "fluent-emoji-high-contrast:black-cat"
+        },
+        {
+            "name": "4chan",
+            "link": "https://4chan.org/",
+            "icon": "simple-icons:4chan"
+        },
+        {
+            "name": "More icons",
+            "link": "https://icones.js.org/",
+            "icon": "arcticons:notificationnotes"
+        }
+    ]
+  }
