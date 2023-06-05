@@ -1,5 +1,5 @@
 <template>
-    <main class="home">
+    <main class="home" :style="{ backgroundImage: `url('${bgImage}')` }">
         <div class="links-container">
             <Links :links="links" />
         </div>
@@ -7,6 +7,7 @@
 </template>
   
 <script setup>
+import bgImage from "assets/images/holoDarkBgHd.png"
 const { links } = await queryContent('/homepage').findOne()
 </script>
 
@@ -20,7 +21,6 @@ main.home {
     height: 100vh;
     position: absolute;
     background: black;
-    background-image: url('holoDarkBgHd.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
