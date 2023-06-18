@@ -9,3 +9,9 @@ Functional training general
 
 ### Exercises for specific muscles
 - [Shoulders training no equipment](https://youtu.be/D6L46HTVBiY)
+
+## Pull ups
+- [grow number of pull ups - training pal volume exercise](https://youtu.be/FEWv84xEa8E)
+
+## Grow wrists
+- [pigmie growing wrist by training](https://youtu.be/uMVjg4VmftQ)
