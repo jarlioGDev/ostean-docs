@@ -14,4 +14,4 @@ Functional training general
 - [grow number of pull ups - training pal volume exercise](https://youtu.be/FEWv84xEa8E)
 
 ## Grow wrists
-- [pigmie growing wrist by training](https://youtu.be/uMVjg4VmftQ)
+- [pigmie growing wrist exp 1](https://youtu.be/uMVjg4VmftQ)
