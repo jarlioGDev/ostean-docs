@@ -21,5 +21,5 @@
 </template>
 
 <script setup>
-const pages = await queryContent('/health').find();
+const pages = await queryContent('/studies').find();
 </script>

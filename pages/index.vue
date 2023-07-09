@@ -1,15 +1,37 @@
+<script setup>
+import bgImage from "assets/images/holoDarkBgHd.png"
+import Terminal from "~/components/Terminal.vue";
+const { links } = await queryContent('/homepage').findOne()
+const terminalRef = ref(null);
+
+const showHideTerminal = () => {
+    console.log(terminalRef.value)
+    if (terminalRef.value.isShown) {
+        terminalRef.value.hideTerminal()
+    } else {
+        terminalRef.value.showTerminal()
+    }
+}
+
+onMounted(() => {
+    console.log("mounted:", terminalRef.value)
+})
+</script>
+
+
 <template>
     <main class="home" :style="{ backgroundImage: `url('${bgImage}')` }">
         <div class="links-container">
-            <Links :links="links" />
+            <ul>
+                <Links :links="links" />
+                <li @click="showHideTerminal">
+                    <Icon size="3em" name="ph:terminal-window" color="white" />
+                </li>
+            </ul>
         </div>
+        <Terminal ref="terminalRef" />
     </main>
 </template>
-  
-<script setup>
-import bgImage from "assets/images/holoDarkBgHd.png"
-const { links } = await queryContent('/homepage').findOne()
-</script>
 
 <style lang="less">
 body {
@@ -51,5 +73,18 @@ main.home {
     &::-webkit-scrollbar-thumb:hover {
         /* background: #b30000; */
     }
+}
+
+.links-container {
+    li {
+        margin: 20px;
+        cursor: pointer;
+    }
+
+    ul {
+        color: white;
+        list-style-type: none;
+    }
+
 }
 </style>

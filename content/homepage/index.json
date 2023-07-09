@@ -8,6 +8,11 @@
             "icon": "healthicons:health-outline"
         },
         {
+            "name": "My studies",
+            "link": "/studies",
+            "icon": "ic:twotone-book"
+        },
+        {
             "name": "youtube",
             "link": "https://www.youtube.com/",
             "icon": "simple-icons:youtube"
@@ -51,6 +56,11 @@
             "name": "More icons",
             "link": "https://icones.js.org/",
             "icon": "arcticons:notificationnotes"
+        },
+        {
+            "name": "Vue exemples",
+            "link": "https://vuejsexamples.com/",
+            "icon": "mdi:vuejs"
         }
     ]
   }
