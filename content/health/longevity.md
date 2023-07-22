@@ -9,3 +9,4 @@
 
 ### Notes
 - There should always be a gentle stretch in tai chi
+- All movements of tai chi should be done smoothly and relaxed
