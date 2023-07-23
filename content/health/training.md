@@ -19,3 +19,7 @@ Functional training general
 
 ## Cardio
 - [Jumping rope tutorial](https://youtu.be/6h_q6ixtuYM)
+
+## Martial arts and cool things
+- [How to spin kick](https://www.youtube.com/watch?v=EZw3WPEzvyA)
+- [High kick](https://www.youtube.com/watch?v=D38v1daizn0)
