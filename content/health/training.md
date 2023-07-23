@@ -16,3 +16,6 @@ Functional training general
 
 ## Grow wrists
 - [pigmie growing wrist exp 1](https://youtu.be/uMVjg4VmftQ)
+
+## Cardio
+- [Jumping rope tutorial](https://youtu.be/6h_q6ixtuYM)
