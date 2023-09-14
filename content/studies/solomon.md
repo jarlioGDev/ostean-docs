@@ -13,6 +13,7 @@
 Cunoscătorul nu știe sa aplice cunoașterea înțeleptului, iar înțeleptul trebuie să fie informat să ia decizia corectă.   
 Probabil Solomon a observat ca e foarte greu să existe într-un singur om, așa că e nevoie de ambi. Unii oameni vor să cunoască mai mult, alții să ia decizi practice.
 Înțeleptul e totuși încurajat să-și crească cunoștința. Cunoscătorul e trimis direct la înțelept. Putem deduce că un cunoscător nu o să ia neapărat decizii ințelepte.
+:VersePopup{book="Proverbs" numbers="8:11-14"} (!14 I wisdom)  
 
 **Coruptia și violeța** Nu te strânge în grup și nu te folosi de putere sa abuzezi si sa faci rau. :VersePopup{book="Proverbs" numbers="1:11-19"}. Tipul asta de oameni se vor mânca între ei 
 
@@ -24,9 +25,11 @@ Probabil Solomon a observat ca e foarte greu să existe într-un singur om, așa
 - Vei înțelege judecata și corectitudinea, fiecare decizie bună când înțelepciunea o să-ți intre in suflet (ambigu deocamdată), dar cunoștința o șă fie plăcută (un filter pentru a diferenția ce a rămas bun, de rău). Orce cunoștință care nu e plăcută nu e justă sau corectă :VersePopup{book="Proverbs" numbers="2:9-10"}. i.e gândul conține neplăcere, chiar si dacă în bucăți: ex nihilismul sau orce branch din el, justificăriile unei crime sau al unui stil de viață deranjant
 *TL:DR Ai dorință să fi bun -> studiază tradiția -> **cunoștința e plăcută** -> ai cunoscut dreptatea, corectitudinea și ești capabil de judecată*
 
+
 **Cum îl privești pe Dumnezeu**
 - Ai încredere în Dumnezeu. 
 - Fie-ți frică de Dumnezeu (literalmente). 
+    - Frica implică că ai ură de evil :VersePopup{book="Proverbs" numbers="8:13"}
 - Nu te baza pe tine. Recunoaștei contribuția și te v-a ghida :VersePopup{book="Proverbs" numbers="3:5-8"}.
 - Raportează tot la Dumnezeu (valori și fapte) prin extindere și creația lui (ordinea naturală). Orce produci să îl onoreze pe Dumnezeu :VersePopup{book="Proverbs" numbers="3:9-10"}. 
 - Nu urâ greutățiile, sunt acolo să te repare. :VersePopup{book="Proverbs" numbers="3:11-12"}
@@ -52,6 +55,10 @@ Probabil Solomon a observat ca e foarte greu să existe într-un singur om, așa
 
 **Nu fi leneș** :VersePopup{book="Proverbs" numbers="6:6-11"} Starea și consecința
 
+**Conducătorii sunt înțelepți** :VersePopup{book="Proverbs" numbers="8:15-16"} Toți au o înțelepciune de bază, altfel nu ar fi fost acolo. Dacă nu și-o păștrează (poți pierde înțelepciunea) stabilitatea cade
+
+**Caută înțelepciunea devreme** :VersePopup{book="Proverbs" numbers="8:17"}
+
 ## Valori ale conștinței
 - Milă, Adevar => Favor and understanding.
     - trebuie sa intre in instinct/natural "bind them about thy neck; write them upon the table of thine heart" :VersePopup{book="Proverbs" numbers="3:3-4"}
@@ -60,14 +67,17 @@ Probabil Solomon a observat ca e foarte greu să existe într-un singur om, așa
 - **Înțelegere**: Adevarul absolut. :VersePopup{book="Proverbs" numbers="3:19"}
 - **Înțelepciunea**: felul în care te folosești de informație să acționezi, o abilitate însumată din experiențe vaste, aici poate intra felul în care comunici, gestionezi conflicte, administrezi și iei decizi și multe altele (definită din lista de mai jos). Faptul că Solomon le include pe toate într-un singur cuvânt pe care insistă, mă face să cred că toate abilitățiile alea sunt predispuse la a crește deodată dacă îi urmezi instrucțiuniile:
     - Poți să te vezi înțelept deci e observabil. :VersePopup{book="Proverbs" numbers="3:7"}. 
-    - Se învață din piețe. Comerț, Muncă, Comunicare intre persoane, etc. :VersePopup{book="Proverbs" numbers="1:20-23"} în acelaș timp e evidentă (la cum romanticizează Solomon).
+    - Se învață din piețe. Comerț, Muncă, Comunicare intre persoane, etc. :VersePopup{book="Proverbs" numbers="1:20-23"} în acelaș timp e evidentă (la cum romanticizează Solomon). :VersePopup{book="Proverbs" numbers="8:1-3"} E observabilă pe culmi și la răscruce de drumuri (acolo unde se fac orașe, puncte de comerț, legături între sate, intersecție de culturi), porți și în fața ușilor caselor oameniilor (probabil acolo unde vecinii ies sa vorbească)
     - Trebuie comercializată deci valorificată, iar apoi împărtășită sau negociată. :VersePopup{book="Proverbs" numbers="3:14-16"}. O cerință vastă, lungă durată, dar cea mai profitabilă.
     - Aduce fericire pentru că aduce valoare :VersePopup{book="Proverbs" numbers="3:13"}. Poate fi găsită. Mă face să cred că de la un momentdat doar îți e mai ușor să aplici
     - Regulile pământului sunt inițiate de înțelepciune :VersePopup{book="Proverbs" numbers="3:19"}.
-    - Stabilitate :VersePopup{book="Proverbs" numbers="4:5-6"}
+    - Stabilitate, putere :VersePopup{book="Proverbs" numbers="4:5-6"} :VersePopup{book="Proverbs" numbers="8:14"} :VersePopup{book="Proverbs" numbers="8:18-19"}
     - Onoare, deci nu poti zice ca o ai daca esti rusinos :VersePopup{book="Proverbs" numbers="4:8-9"}
     - Se poate lua din instructiuni, her se refera la intelepciune :VersePopup{book="Proverbs" numbers="4:13"}
-    - Principal :VersePopup{book="Proverbs" numbers="4:7"}
+    - Principal: cu toată capacitatea ta de acumulare, acumuleaza înțelepciune :VersePopup{book="Proverbs" numbers="4:7"} (i.e nu face munci repetitive din care n-ai nimic de invatat sau activitati în care investești efort doar ca să stagnezi sau pentru bani) :VersePopup{book="Proverbs" numbers="8:10-11"}
+    - Zice ce înțelegere trebuie sa acumulezi ca să faci inveții utile :VersePopup{book="Proverbs" numbers="8:12"} (multa aplicabilitate aici, asculți în piață, vezi de ce au nevoie oamenii, iei cunoștință inventezi ceva nou, fie acel ceva fiind un sistem organizatoric sau o mașinărie) Mai mult este înțelegere (:VersePopup{book="Proverbs" numbers="8:14"})
+    - Se acumulează prin prudență :VersePopup{book="Proverbs" numbers="8:12"}
+    - Descurajată de: Mândrie, aroganță, căi haine (evil), atitudine conrariană :VersePopup{book="Proverbs" numbers="8:12-13"}
 - **Discreție**? Nu știu încă dacă e secretos sau individual :VersePopup{book="Proverbs" numbers="3:21-23"}, :VersePopup{book="Proverbs" numbers="5:2"}
     - https://en.wikipedia.org/wiki/Discretion
 - **Drept, just**
@@ -84,6 +94,10 @@ Probabil Solomon a observat ca e foarte greu să existe într-un singur om, așa
     - they don't know on what they stumble, darkness = confusion :VersePopup{book="Proverbs" numbers="4:19"}
     - corupt de nedreptate :VersePopup{book="Proverbs" numbers="5:21-23"}
 - Evil (rautate din dorinta): Fac rau doar că se bucură să facă rău. (Mai rari, dar sunt pe acolo)
+    - Pride
+    - Arrogancy
+    - evil way
+    - Froward mouth :VersePopup{book="Proverbs" numbers="8:13"}
 - evil and wicked
     - Nu pot dormi daca nu fac rau, dorinta internala :VersePopup{book="Proverbs" numbers="4:14-16"}
     - Vinul violentei: violenta folosita irational/impulsiv, bread of wickedness: profitul din coruptie :VersePopup{book="Proverbs" numbers="4:17"}
@@ -99,7 +113,11 @@ Probabil Solomon a observat ca e foarte greu să existe într-un singur om, așa
     - Cel ce a cautat râcă intre frați (plural, poate insemna camarazi sau membri ai aceleasi organizatii?) (abominație)
 
 ## Instructions regarding women
-:VersePopup{book="Proverbs" numbers="5:3-8"}, :VersePopup{book="Proverbs" numbers="5:18-20"}, :VersePopup{book="Proverbs" numbers="6:24-35"} 
+:VersePopup{book="Proverbs" numbers="5:3-8"}, :VersePopup{book="Proverbs" numbers="5:18-20"}, :VersePopup{book="Proverbs" numbers="6:24-35"}, :VersePopup{book="Proverbs" numbers="7:5-27"} 
 
 ## Types of people
 - Manipulator, meschin, carismatic. Suna a propagandist sau agitator :VersePopup{book="Proverbs" numbers="6:12-15"}
+- Omul afemeiat, ușor influențat de femei, fără coloană vertebrală :VersePopup{book="Proverbs" numbers="7:5-27"} 
+
+## Atitudinea autorului
+Solomon insistă pe bunătatea inteției lui. Se adresează oameniilor simpli. Deci poți zice că scrieriile sunt făcute chiar dacă ești prostovan, să poți înțelege ușor după cum zice mai departe :VersePopup{book="Proverbs" numbers="8:4-10"} 
