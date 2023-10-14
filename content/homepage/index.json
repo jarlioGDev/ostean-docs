@@ -1,6 +1,24 @@
 {
     "title": "Homepage",
     "description": "Idk something",
+    "books": [
+        {
+            "title": "Standard ebooks",
+            "link": "https://standardebooks.org/"
+        },
+        {
+            "title": "Ebook hunters",
+            "link": "https://ebook-hunter.org/"
+        },
+        {
+            "title": "Pdf drive",
+            "link": "https://www.pdfdrive.com/"
+        },
+        {
+            "title": "Epdf tips",
+            "link": "https://epdf.tips/"
+        }
+    ],
     "links": [
         {
             "name": "Health",
@@ -63,4 +81,4 @@
             "icon": "mdi:vuejs"
         }
     ]
-  }
+}

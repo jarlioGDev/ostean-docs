@@ -1,21 +1,12 @@
 <script setup>
 import bgImage from "assets/images/holoDarkBgHd.png"
-import Terminal from "~/components/Terminal.vue";
-const { links } = await queryContent('/homepage').findOne()
-const terminalRef = ref(null);
+const { links, books } = await queryContent('/homepage').findOne()
+const booksShown = ref(false);
 
-const showHideTerminal = () => {
-    console.log(terminalRef.value)
-    if (terminalRef.value.isShown) {
-        terminalRef.value.hideTerminal()
-    } else {
-        terminalRef.value.showTerminal()
-    }
+const showBooks = () => {
+    console.log(booksShown.value)
+    booksShown.value = !booksShown.value
 }
-
-onMounted(() => {
-    console.log("mounted:", terminalRef.value)
-})
 </script>
 
 
@@ -24,12 +15,12 @@ onMounted(() => {
         <div class="links-container">
             <ul>
                 <Links :links="links" />
-                <li @click="showHideTerminal">
+                <li @click="showBooks">
                     <Icon size="3em" name="ph:terminal-window" color="white" />
                 </li>
             </ul>
         </div>
-        <Terminal ref="terminalRef" />
+        <Info v-if="booksShown" :elems="books"/>
     </main>
 </template>
 
